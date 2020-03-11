@@ -2,6 +2,9 @@
 
 
 # BYTE EATER V3
+# A SAMWRIGH-T PROGRAM
+# USE AT YOUR OWN RISK
+
 
 import os
 import random
